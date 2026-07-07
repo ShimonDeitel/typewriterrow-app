@@ -1,0 +1,40 @@
+{
+  "identifier": "Configuration",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "21000000",
+      "localizations": [],
+      "name": "Typewriter Row Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "2100001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlimited typewriters and restoration notes log",
+              "displayName": "Typewriter Row Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.typewriterrow.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Typewriter Row Pro Monthly",
+          "subscriptionGroupID": "21000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
